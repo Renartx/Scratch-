@@ -18,4 +18,5 @@ Here is a list of things to do
 
 - upload image
 - Include the python code
-- 
+
+![Code example](code_rgb.png)
