@@ -1,10 +1,14 @@
-# Title line
+# Examples of Scratch at the Marie Curie School
 
-THis is great
+![GitHub License](https://img.shields.io/github/license/Renartx/Scratch-)
+![GitHub Release](https://img.shields.io/github/v/release/Renartx/Scratch-)
 
-## Subtitle
+There are only a few so far:
 
-This is my subtitle
+- [RGB Module](RGB_module)
+- [Second example](not done yet)
+
+## Subtitle - this it is
 
 - list item
 - Another one
